@@ -43,6 +43,12 @@
         "author": { "name": "me", "link": "ewrewrwer"},
         "url": "https://raw.githubusercontent.com/Penguinify/autoclicker-bookmarklet/main/dist/bundle.js"
     },
+        {
+        "name": "Breakout",
+        "desc": "hit ball break block ball fast more blocks",
+        "author": { "name": "idk", "link": "skibiditoilet"},
+        "url": "https://raw.githubusercontent.com/Benmcdoge/breakoutredo/main/main.js"
+    },
     {
         "name": "Piano",
         "desc": "a piano thing",
